@@ -1,0 +1,80 @@
+Name;Number;Istitution;City;Country;Adress;Year;Site;Latitude;Longitude
+Venice Centre for Digital and Public Humanities;1;Ca' Foscari University of Venice;Venezia;Italy;Calle Contarini, 3484, 30123 Venezia VE;—;https://www.unive.it/pag/39287;45.4350997;12.3231063
+Art & Technology Task Force;2;Norwegian University of Science and Technology NTNU;Trondheim;Norway;Høgskoleringen 1, 7034 Trondheim, Norway;—;https://www.ntnu.edu/artec;63.4195043;10.4019248
+Digital Humanities Advanced Research Centre;3;University of Bologna;Bologna;Italy;Via Zamboni, 36, 40126 Bologna BO;2019;https://centri.unibo.it/dharc/en;44.4965321;11.3511481
+Utrecht Digital Humanities Lab;4;University of Utrecht;Utrecht;Netherlands;Heidelberglaan 8, 3584 CS Utrecht, Netherlands;—;https://cdh.uu.nl/;52.0917954;5.1256438
+Mainz Centre for Digitality in the Humanities and Cultural Studies;5;Hochschule Mainz University of Applied Sciences;Mainz;Germany;Lucy-Hillebrand-Straße 2, 55128 Mainz, Germany;2015;https://i3mainz.hs-mainz.de/en/projekte/mainzed/;49.9885302;8.2275109
+Centre Informatique de Philosophie & Lettres;6;University of Liege;Liege;Belgium;Quai Roosevelt 1b/Bâtiment A4, 4000 Liège, Belgium;1983;https://www.cipl.uliege.be/cms/c_4535714/fr/cipl?id=c_4535714;50.6407748;5.5763076
+Cologne Center for eHumanities;7;University of Cologne;Cologne;Germany;Universitätsstraße 22, 50937 Köln, Germany;2009;https://cceh.uni-koeln.de/en/;50.9265051;6.9297519
+Digital Humanities Observatory;8;Royal Irish Academy;Dublin;Ireland;19 Dawson St, Dublin 2, D02 HH58, Ireland;—;https://www.ria.ie/research-projects/archive/digital-humanities-observatory;53.34055709838867;-6.2584228515625
+Göttingen Centre for Digital Humanities;9;Georg-August-Universität Göttingen;Göttingen;Germany;Papendiek 16, 37073 Göttingen, Germany;2011;https://www.gcdh.de/en/welcome/;51.5337411;9.9312358
+Humanities Research Centre;10;University of Sheffield;Sheffeld;United Kingdom;Broomhall, Sheffield S3 7RD, United Kingdom;1996;https://www.shu.ac.uk/humanities-research-centre;53.380936;-1.483213
+HUMlab;11;University of Umeå;Umeå;Sweden;UNIVERSITETSTORGET 4, 901 87 Umeå, Sweden;—;https://www.umu.se/en/humlab/;63.8284;20.2597
+Laboratorio de Innovación en Humanidades Digitales;12;Universidad Nacional de Educación a Distancia;Madrid;Spain;C. de Juan del Rosal, 16, Moncloa - Aravaca, 28040 Madrid, Spain;—;https://linhd.uned.es/;40.4380362;-3.7035045
+Digital Transformations Hub;13;University of Nottingham;Nottingham;United Kingdom;Innovative Technology Research Centre,University of Nottingham, University Park, Nottingham NG7 2RD, United Kingdom;—;https://www.nottingham.ac.uk/artsdigitalhub/artsdigitalhub.aspx;52.940521;-1.191193
+UCL Centre for Digital Humanities;14;University College London;London;United Kingdom;Gower St, London WC1E 6BT, United Kingdom;2010;https://www.ucl.ac.uk/digital-humanities/ucl-centre-digital-humanities;51.523632;-0.159133
+Zentrum für Informationsmodellierung in den Geisteswissenschaften;15;University of Graz;Graz;Austria;Österreich, Elisabethstraße 59, 8010 Graz, Austria;2019;https://informationsmodellierung.uni-graz.at/en/;47.0889;15.55
+Center for Digital Humanities;16;Perm State University;Perm;Russia;Bul'var Gagarina, 81, Perm, Permskiy kray, Russia, 614077;2016;http://dh.psu.ru/en/;58.0100805;56.1997101
+Centre for Research in Arts, Social Sciences and Humanities;17;University of Cambridge;Cambridge;United Kingdom;Alison Richard Building, 7 West Rd, Cambridge CB3 9DP, United Kingdom;2001;https://www.crassh.cam.ac.uk/;52.202474;0.108662
+L'Huma-Num Lab (HN Lab);18;"CNRS (French National Center for Scientific Research); TGIR (Très Grande Infrastructure de Recherche)";Paris;France;54 Bd Raspail, 75006 Paris, France;2010;https://www-huma--num-fr.translate.goog/?_x_tr_sl=fr&_x_tr_tl=it&_x_tr_hl=it&_x_tr_pto=sc;48.84672546386719;2.3283333778381348
+Digital Humanities Research Group;19;Fondazione Bruno Kessler;Povo;Italy;Via Sommarive, 18, 38123 Povo TN;2013;https://dh.fbk.eu/;46.0655017;11.154962
+digHUMlab;20;University of Aarhus;Aarhus;Danmark;Jens Chr. Skous Vej 4, 8000 Aarhus, Denmark;—;https://dighumlab.org/;55.6471;12.2742
+Digital Humanities Laboratory - DHLAB;21;École Spéciale de Lausanne;Lausanne;Switzerland;Quartier Centre, 1015 Lausanne, Switzerland;2012;https://www.epfl.ch/labs/dhlab/;46.5258;6.5621137
+Digital Humanities at The Open University;22;The Open University;Milton Keynes;United Kingdom;Walton Hall, Kents Hill, Milton Keynes MK7 6AA, United Kingdom;2018;https://www5.open.ac.uk/arts/research/digital-humanities/;52.024914;-0.709747
+Leiden University Centre for Digital Humanities;23;Universiteit Leiden;Leiden;Netherlands;Rapenburg 70, 2311 EZ Leiden, Netherlands;—;https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities;52.1566349;4.4867397
+Austrian Centre for Digital Humanities – OEAW;24;Austrian Academy of Sciences;Vienna;Austria;Sonnenfelsgasse 19 1010 Vienna, Austria;2015;https://www.oeaw.ac.at/acdh;48.2091034;16.3772592
+Les Bibliothèques Virtuelles Humanistes;25;Universitè de Tours;Tours;France;59 Rue Néricault Destouches, 37013 Tours, France;2002;http://www.bvh.univ-tours.fr/index.htm;47.39223861694336;0.6846053004264832
+Centre Informatique de Philosophie et Lettres;26;Université de Liège;Liege;Belgium;Bâtiment A4 Quai Roosevelt, 1B B-4000 Liège Belgique;1983;https://www.cipl.uliege.be/cms/c_4535714/fr/cipl;50.643811428044444;5.581676593955374
+ Cologne Center for eHumanities;27;University of Köln;Köln;Germany;Universitätsstraße 22 50937 Köln, Germany;2009;http://www.cceh.uni-koeln.de/;50.926315;6.9297843
+Digitales;28;National Distance Education University (UNED);Madrid;Spain;Paseo Senda del Rey, 5, 28040 Madrid;2011;http://linhd.uned.es/en/;40.4370729;-3.7354859
+Humanities Research Institute - HRI;29;University of Sheffield;Sheffield;United Kingdom;34 Gell Street Sheffield S3 7QY;1994;https://www.dhi.ac.uk;53.380348205566406;-1.482938528060913
+Common Language Resources and Technology Infrastructure (CLARIN);30;Lund University;Lund;Sweden;Box 201 SE-221 00 LUND;2017;https://www.clarin.eu;55.7029296;13.1929449
+Istituto di Linguistica Computazionale;31;Consiglio Nazionale delle Ricerche;Pisa;Italy;Via Giuseppe Moruzzi N° 1;1980;http://www.ilc.cnr.it/;43.7205918;10.4219386
+King's Digital Lab;32;King's College London;London;United Kingdom;22 Kingsway, London WC2B 6LE, UK;2018;https://www.kdl.kcl.ac.uk/;51.5146706;-0.1180084
+Koninklijke Academie voor Nederlandse Taal-en (Kantl) ;33;Royal Flemish Academy of Language and Literature;Ghent;Belgium;Koningstraat 18 - 9000 Gent;1866;http://www.kantl.be/;51.0553372;3.7280104
+The Digital Humanities Research Hub;34;School of Advanced Study- University of London;London;United Kingdom;Senate House, Malet St, London WC1E 7HU, United Kingdom;--;https://www.sas.ac.uk/about-us-6/institutes-and-centres/digital-humanities-research-hub;51.520642;-0.128724
+Laboratoire de recherche historique;35;Universities of Lumière;Lion;France;Lyon Cedex 07, France;--;http://larhra.ish-lyon.cnrs.fr/;45.747038;4.835798
+Computational Linguistics;36;University of Groninger;Groningen;Netherlands;Broerstraat 5, 9712 CP Groningen, Paesi Bassi;2018;https://www.rug.nl/research/clcg/research/cl/research/;53.21917;6.56667
+Le Laboratoire d’Analyse Statistique des Langues Anciennes;37;Liège Université;Liege;Belgium;Quai Roosevelt, 1B (Bât. A4) 4000 Liège;--;https://www.lasla.uliege.be/cms/c_8508894/fr/lasla;50.6407748;5.5763076
+Trier Center for Digital Humanities;38;Universitat Trier;Trier;Germany;Trier University, Universitätsring 1554296 Trier, Germany;1998;https://www.kompetenzzentrum.uni-trier.de/en/;49.7460677;6.6871872
+Digital Writing and Research Lab;39;University of Texas at Austin;Austin;Texas, USA;2515 Speedway, Austin, TX 78712, United States;1985;https://www.dwrl.utexas.edu/;30.2887121;-97.7361097
+Alabama Digital Humanities Center - ADHC;40;University of Alabama;Tuscaloosa;Albama, USA;109A Amelia Gayle Gorgas Library, 711 Capstone Dr Tuscaloosa, AL 35487;2015;https://adhc.lib.ua.edu/;33.212238;-87.5455251
+Baker-Nord Center for the Humanities;41;Case Western Reserve University;Cleveland;Ohio, USA;11130 Bellflower Rd, Cleveland, OH 44106, USA;—;https://case.edu/artsci/bakernord/;41.5099419;-81.6074301
+Center for Digital Humanities;42;Princeton University;Priceton;New Jersey, USA;1 Washington Rd, Princeton, NJ 08544, USA;2014;https://cdh.princeton.edu/;40.3493826;-74.6589456
+Center for Digital Humanities - CDH;43;Columbia University;New York City;New York, USA;535 W 114th St, New York, NY 10027, United States;—;https://library.columbia.edu/services/digital-scholarship/digital-scholarship-services.html;40.8063736;-73.963186
+Center for Digital Research In Humanities;44;University of Nebraska-Lincoln;Lincoln;Nebraska, USA;1318 R St, Lincoln, NE 68588, United States;2005;https://cdrh.unl.edu/;40.8170187;-96.7022076
+Center for Digital Scholarship;45;Brown University;Providence;Rhode Island, USA;10 Prospect St, Providence, RI 02912, United States;—;https://library.brown.edu/create/cds/;41.8239891;-71.4128343
+Roy Rosenzweig Center for History and New Media;46;George Mason University;Fairfax;Virginia, USA;4400 University Dr, Fairfax, VA 22030, United States;1994;https://rrchnm.org/;38.8313333;-77.3079884
+Center for Humanities and Digital Research (CHDR);47;University of Central Florida;Orlando;Florida, USA;Trevor Colbourn Hall, 12796 Aquarius Agora Dr Suite 321, Orlando, FL 32816, United States;2007;https://chdr.cah.ucf.edu/;28.603338;-81.20376
+Center for Public History - Digital Humanities;48;Cleveland State University;Cleveland;Ohio, USA;2121 Euclid Ave, Cleveland, OH 44115, United States;2010;https://csudigitalhumanities.org/;41.501705;-81.675607
+Center of Digital Humanities Research;49;Texas A&M Univeristy;College Station;Texas, USA;Glasscock 4214 TAMU, 398 Spence St, College Station, TX 77843, United States;2018;https://liberalarts.tamu.edu/codhr/;30.616005;-96.3366667
+Centre de recherche interuniversitaire sur les humanités numériques;50;Université de Montréal;Montreal;Canada;2900 Edouard Montpetit Blvd, Montreal, Quebec H3T 1J4, Canada;2013;https://www.crihn.org/;45.4992224;-73.6182747
+Electronic Textual Cultures Lab;51;University of Victoria;Victoria;Canada;3800 Finnerty Rd, Victoria, BC V8P 5C2, Canada;—;https://etcl.uvic.ca/;48.464769;-123.308941
+Graduate Center Digital Initiatives (GCDI);52;The City University of New York;New York City;New York, USA;365 5th Ave, New York, NY 10016, United States;2018;https://gcdi.commons.gc.cuny.edu/;40.7485188;-73.9836393
+Emory Center for Digital Scholarship;53;Emory University;Atlanta;Georgia, USA;540 Asbury Cir, Atlanta, GA 30322, United States;2013;https://digitalscholarship.emory.edu/;33.7904621;-84.3228079
+Humanities and Critical Code Studies (Haccs) Lab;54;University of Southern California;Los Angeles;California, USA;Los Angeles, CA 90007, United States;2006;https://haccslab.com/;34.0536909;-118.242766
+The Institute for Advance Technology in the Humanities (IATH);55;University of Virginia;Charlottesville;Virginia, USA;160 McCormick Rd, Charlottesville, VA 22904, United States;1992;http://www.iath.virginia.edu/;38.034101;-78.511122
+Institute for Digital Arts and Humanities;56;Indiana University Bloomington;Bloomington;Indiana, USA;107 S Indiana Ave, Bloomington, IN 47405, United States;2007;https://idah.indiana.edu/index.html;39.1660593;-86.5265353
+Humanities Computing and Media Centre;57;University of Victoria;Victoria;Canada;3800 Finnerty Rd, Victoria, BC V8P 5C2, Canada;—;https://www.uvic.ca/humanities/hcmc/;48.464769;-123.308941
+Ancient World Mapping Center;58; University of North Carolina at Chapel Hill;Chapel Hill;North Carolina, USA;Walter Royal Davis Library Chapel Hill NC 27599-8110 U.S.A.;2001;https://awmc.unc.edu/;35.9129784;-79.0478699
+Center for Geographic Analysis;59;Institute for Quantitative Social Science (IQSS);Cambridge;Massachusetts,USA;737 Cambridge Street, Cambridge MA 02138;2008;https://gis.harvard.edu/;42.3723036;-71.0892069
+China Biographical Database Project Office;60;Harvard University ;Cambridge;Massachusetts, USA;1737 Cambridge St, Cambridge, MA 02138, USA;2004;http://isites.harvard.edu/icb/icb.do?keyword=k16229;42.3755807;-71.1139584
+Humanities and Social Sciences Online;61;Michigan State University;Lansing;Michigan, USA;141h Old Horticulture 506 East Circle Drive East Lansing, MI 48824, USA;1993;http://www.h-net.org/;42.696439;-84.278583
+Interdisciplinary Research & Informatics Scholarship Center;62;Southern Illinois University;Edwardsville;Illinois, USA;Edwardsville Peck Hall 2226;2009;https://iris.siue.edu;38.7933106;-89.9959479
+The Humanities Research Institute (HRI);63;University of Illinois at Urbana-Champaign;Urbana;Illinois, USA;919 W Illinois St, Urbana, IL 61801, USA;2009;https://hri.illinois.edu/;40.108677;-88.2210959
+Centre for Digital Humanities;64;Toronto Metropolitan University;Toronto;Canada;350 Victoria St, Toronto, ON M5B 0A1, Canada;—;https://www.torontomu.ca/centre-digital-humanities/;43.657235;-79.380589
+Digital Scholarship Lab;65;University of Richmond;Richmond;Virginia, USA;410 Westhampton Way, Richmond, VA 23173, United States;—;https://dsl.richmond.edu/;37.5752406;-77.5406636
+Maryland Institute for Technology in the Humanities (MITH);66;University of Maryland;College Park;Maryland, USA;College Park, MD 20742, USA;1997;http://mith.umd.edu/;38.98106002807617;-76.93655395507812
+MATRIX Center for Digital Humanities and Social Sciences;67;Michigan State University;Lansing;Michigan, USA;288 Farm Lane 409 Natural Science Building East Lansing, MI 48824-1120, United States;--;https://matrix.msu.edu;42.645134;-84.043224
+Office of Digital Humanities;68;Brigham Young University;Provo;Utah, USA;Provo, UT 84602, USA;--;https://odh.byu.edu;40.23368453979492;-111.66484832763672
+Research Libraries Group Luogo;69;OCLC;Dublin;Ohio, USA;6565 Kilgour Pl, Dublin, OH 43017, USA;1977;http://www.oclc.org/research.html;40.1020321;-83.1243132
+The Medici Archive Project;70;The Medici Archive Project;New York City;New York, USa;175 W Main St, Babylon, NY 11702, USA;1990;http://www.medici.org/;40.6955543;-73.3270039
+Center for Digital Humanities;71;University of Arizona;Tucson;Arizona, USA;Modern Languages Building, 412, University of Arizona, Tucson, AZ 85721;2017;https://digitalhumanities.arizona.edu/;32.22221755981445;-110.9746322631836
+University of California Humanities Research Institute (UCHRI);72;Univerity of California ;Irvine;California, USA;4000 Humanities Gateway Irvine, CA 92697;1987;https://uchri.org;33.640302;-117.769442
+SECRIT (Seminario de Edición y Crítica Textual);73;IIBICRIT. Instituto de Investigaciones Bibliográficas y Crítica Textual;Buenos Aires;Argentina;Marcelo T. de Alvear 1694;1978;https://iibicrit.conicet.gov.ar;-34.61315;-58.37723
+Center for Evolving Humanities;74;University of Tokyo;Tokyo;Japan;7 Chome-3-1 Hongo, Bunkyo City, Tokyo 113-8654, Japan;—;https://dh.l.u-tokyo.ac.jp/home;35.6895;139.69171
+Digital Humanities Center - University of Balamand;75;University of Balamand;Balamand;Lebanon;Atef Daniel, Lebanon;2012;https://www.balamand.edu.lb/AboutUOB/Pages/Centers/DHC.aspx;34.3663321;35.7824931
+Research Center for Digital Humanities;76;National Taiwan University;Taipei;Taiwan;No. 1, Section 4, Roosevelt Rd, Da’an District, Taipei City, Taiwan 10617;2007;www.digital.ntu.edu.tw/en/;25.0532452;121.5221747
+Centre for Literary and Linguistic Computing;77;The University of Newcastle;Callaghan;Australia;University Dr, Callaghan NSW 2308, Australia;—;https://www.newcastle.edu.au/research/centre/cllc;-32.8959187;151.7124578
+UC Digital Humanities;78;University of Canterbury;Christchurch;New Zealand;Private Bag 4800 Christchurch 8140 New Zealand;--;http://dh.canterbury.ac.nz/;-43.5342631;172.625237
+Center for Digital Humanities CEDHUL;79;University of Lagos ;Lagos ;Nigeria ;G99X+W6M, Akoka, Lagos 101245, Lagos, Nigeria;2017;https://www.cedhul.com.ng;6.45407;3.39467
