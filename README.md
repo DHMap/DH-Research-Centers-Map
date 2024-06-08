@@ -23,7 +23,7 @@ In the repository, we included:
 
  > a [QGZ](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/DH%20Centers%20Map.qgz) file containing the editable map;</li>
     
- >  a simple [guide], as mentioned before; </li>
+ >  a simple [guide](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/Map.pdf) usuful to help you add centers to the map; </li>
   
  >  a [TIFF](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/DH%20centers%20mao.tiff) file containing a "final" version of the map.</li> 
 
