@@ -25,7 +25,9 @@ In the repository, we included:
     
  >  a simple [Guide](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/Map.pdf) usuful to help you add centers to the map; </li>
   
- >  a [TIFF](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/DH%20centers%20mao.tiff) file containing a "final" version of the map.</li> 
+ >  a [TIFF](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/DH%20centers%20mao.tiff) file containing a "final" version of the map.
+
+ > a [HTML](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/Interactive%20Map/index.html) file (along side with four foulders, who need to be downloaded) containing an interactive version of the map. 
 
 
 
