@@ -1,5 +1,5 @@
 ###  Digital Humanities Research Centers Map: Guide 
-Hi evreyone, we are a group of students who created a project to create a map of research centers in Digital Humanities. This map needed to be collaborative, open, and easy to navigate. The map was created using **QGIS** software and was exported in a TIFF file format, foundable on the materials of the repository.
+Hi evreyone, we are a group of students who developed a project to create a map of research centers in Digital Humanities. This map needed to be collaborative, open, and easy to navigate. The map was created using **QGIS** software and was exported in a TIFF file format, foundable on the materials of the repository.
 
 To make the map collaborative we created this [GitHub repository](https://github.com/DHMap/DH-Research-Centers-Map), where you can find materials to collaborate on the project. We have also made available informational text that can guide you through the process of adding a new center to the map. 
 
