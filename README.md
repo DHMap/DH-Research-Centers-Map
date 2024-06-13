@@ -19,13 +19,13 @@ Please note that the center or centers you want to add must be:
 
 In the repository, we included: 
 
- > a [CSV](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/DH%20Centers.csv) file containing all the data regarding the centers;</li>
+ > a [CSV](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/DH%20Centers%20coordinates.csv) file containing all the data regarding the centers;</li>
 
  > a [QGZ](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/DH%20Centers%20Map.qgz) file containing the editable map;</li>
     
- >  a simple [Guide](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/Map.pdf) usuful to help you add centers to the map; </li>
+ >  a simple [Guide](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/How%20to%20add%20a%20center%20in%20the%20Map%20(Guide).pdf) usuful to help you add centers to the map; </li>
   
- >  a [TIFF](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/DH%20centers%20mao.tiff) file containing a "final" version of the map.
+ >  a [TIFF](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/Digital%20Humanities%20Research%20Centers%20Across%20the%20Globe.tiff) file containing a "final" version of the map.
 
  > a [HTML](https://github.com/DHMap/DH-Research-Centers-Map/blob/main/Interactive%20Map/index.html) file (along side with four foulders, who need to be downloaded) containing an interactive version of the map. 
 
